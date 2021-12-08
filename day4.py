@@ -79,3 +79,23 @@ print("Score part 2:",sum_of_unmarkerd(winlist[-1][0], int(winlist[-1][1])))
 
 day4()
 day4b()
+
+
+# Table
+# [     0   1  2   3   4
+# 150  9   0  0   0   0
+# 151  0  80  0  16   0
+# 152  0   0  0  73   0
+# 153  0   0  0   0  85
+# 154  0   3  0   0   0, '21']
+# Score part 2: 5586
+# Table
+#       0   1   2   3   4
+# 245   c  56   c  57  40
+# 246   c   c  26  30  90
+# 247   c   c   c   c   c
+# 248  96   c  79  99  85
+# 249  13  10  86  51  53
+# board_index: 49
+# winning number: 41
+# Score part 1: 35711
